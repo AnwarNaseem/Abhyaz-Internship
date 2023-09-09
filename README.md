@@ -1,4 +1,4 @@
-# NIRF-ranked-institutes-in-2021
+# 1. NIRF-ranked-institutes-in-2021
 
 Data Link: https://www.nirfindia.org/2021/EngineeringRanking.html
 
